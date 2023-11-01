@@ -22,13 +22,7 @@ export default function Index() {
           </a>
         </li>
         <li>
-          <a
-            target="_blank"
-            href="https://remix.run/tutorials/jokes"
-            rel="noreferrer"
-          >
-            Deep Dive Jokes App Tutorial
-          </a>
+          <p className="text-blue-500">Uepa</p>
         </li>
         <li>
           <a target="_blank" href="https://remix.run/docs" rel="noreferrer">
